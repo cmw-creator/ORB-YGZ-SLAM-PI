@@ -1,4 +1,4 @@
-# ORB-YGZ-SLAM For pi
+# ORB-YGZ-SLAM For Pi
 This is a version for Raspberry Pi and other SBC.It`s aimed to run realitics in low performance devices
 It has been used in Raspberry Pi Zero2W with about 20fps.
 
@@ -49,4 +49,5 @@ Thanks the following companies/people for finantial support:
 - Qfeeltech 速感科技
 - 天之博特
 - 视辰信息科技
+
 
