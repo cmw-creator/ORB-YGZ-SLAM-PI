@@ -1,3 +1,8 @@
+# ORB-YGZ-SLAM For pi
+This is a version for Raspberry Pi and other SBC.It`s aimed to run realitics in low performance devices
+It has been used in Raspberry Pi Zero2W with about 20fps.
+
+# README
 # ORB-YGZ-SLAM
 This is YGZ SLAM, a faster version folked from ORB-SLAM2 (see https://github.com/raulmur/ORB_SLAM2 and the README-ORB-SLAM2.md in this repo). We put the direct tracking in SVO to accelerate the feature matching in ORB-SLAM2. We can get an average 3x speed up and keep almost same accuracy. In addition we also support monocular Visual-Inertial SLAM (VI-SLAM), following idea proposed in Raul's paper.
 
@@ -44,3 +49,4 @@ Thanks the following companies/people for finantial support:
 - Qfeeltech 速感科技
 - 天之博特
 - 视辰信息科技
+
